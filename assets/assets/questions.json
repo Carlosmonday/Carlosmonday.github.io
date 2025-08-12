@@ -1,0 +1,17 @@
+[
+  {
+    "text": "RN de 3 días con fiebre y letargia. Conducta inicial?",
+    "answers": ["Observación", "Amoxicilina VO", "Sepsis → antibióticos IV", "Alta con cita"],
+    "correctIndex": 2,
+    "explanation": "Neonato febril = sepsis hasta no demostrar lo contrario.",
+    "categories": ["pediatria", "urgencias"]
+  },
+  {
+    "text": "Manejo inicial de apendicitis complicada con absceso.",
+    "answers": ["Apendicectomía inmediata", "Antibióticos + drenaje", "Solo analgesia", "Alta domiciliaria"],
+    "correctIndex": 1,
+    "explanation": "En absceso, control séptico con antibiótico y drenaje.",
+    "categories": ["cirugia_general", "urgencias"]
+  }
+]
+
